@@ -1,0 +1,121 @@
+order_id,order_date,customer_name,email,state,product,quantity,unit_price
+CO-1087,Feb 24 2026,Linda Jones,linda.jones86@example.com,tx.,Meridian Trail Shoes,2,USD 119.95
+CO-1093,2026-06-22,Charles Gonzalez,CHARLES.GONZALEZ92@EXAMPLE.COM,ca.,Basecamp Lantern,3,39.95
+CO-1038,09/06/2026,Lisa Lee,lisa.lee37@example.com,California,Trailhead 65L Pack,4,$179.50
+CO-1074,05/23/2026,Karen Lee,karen.lee73@example.com,Tennessee,Cascade Rain Shell,1,$129.00
+CO-1016,12-Feb-26,MARK MARTINEZ,mark.martinez15@example.com,TX,Cascade Dry Duffel,3,89.95
+CO-1090,01/07/2026,John Rodriguez,john.rodriguez89@example.com,fl.,Trailhead 65L Pack,1,$179.50
+CO-1092,11-Sep-26,Charles Lopez,charles.lopez91@example.com,Texas,Drift Sleeping Bag,2,159
+CO-1047,Aug 1 2026,William Anderson,william.anderson46@example.com,South Carolina,Basecamp Lantern,1,USD 39.95
+CO-1034,03/10/2026,  Sandra Gonzalez ,SANDRA.GONZALEZ33@EXAMPLE.COM,GA ,Cascade Dry Duffel,3,$89.95
+CO-1080,28-Apr-26,Jennifer Taylor,jennifer.taylor79@example.com,South Carolina,Basecamp Stove Kit,1,74
+CO-1040,12-May-26,Margaret Davis,margaret.davis39@example.com,GA,Summit Trek Poles,4,64.50
+CO-1083,Jan 24 2026,Sandra Sanchez,sandra.sanchez82@example.com,North Carolina,Basecamp Stove Kit,2,USD 74.00
+CO-1029,2026-08-15,Elizabeth Davis,ELIZABETH.DAVIS28@EXAMPLE.COM,California,Trailhead 65L Pack,3,179.50
+CO-1049,2026-02-28,Sandra Moore,SANDRA.MOORE48@EXAMPLE.COM,TN,Basecamp Lantern,3,39.95
+CO-1004,3-Jun-26,Nancy Lopez,nancy.lopez3@example.com,TX,Drift Hammock,1,59.95
+CO-1073,2026-06-26,Nancy Lee,NANCY.LEE72@EXAMPLE.COM,AL,Drift Sleeping Bag,2,159.00
+CO-1091,Sep 20 2026,RICHARD WALKER,richard.walker90@example.com,GA,Basecamp Stove Kit,4,USD 74.00
+CO-1063,Jan 4 2026,Susan Perez,susan.perez62@example.com,ca.,Ridgeline 2P Tent,2,USD 229.00
+CO-1027,Mar 21 2026,Mary Clark,mary.clark26@example.com,ga.,Ridgeline 3P Tent,2,USD 289.00
+CO-1007,Aug 19 2026,Sandra Williams,sandra.williams6@example.com,SC,Summit Trek Poles,2,USD 64.50
+CO-1076,25-Mar-26,CHARLES WILSON,charles.wilson75@example.com,AL,Summit Insoles,2,34.50
+CO-1037,2026-05-19,Betty Miller,BETTY.MILLER36@EXAMPLE.COM,AL,Trailhead 65L Pack,1,179.50
+CO-1086,03/07/2026,JESSICA ROBINSON,jessica.robinson85@example.com,South Carolina,Ember Down Jacket,3,$219.00
+CO-1088,17-Sep-26,Donald Garcia,donald.garcia87@example.com,FL,Cascade Dry Duffel,1,89.95
+CO-1042,04/01/2026,Joseph Brown,joseph.brown41@example.com,tx.,Trailhead 45L Pack,2,$139.50
+CO-9102,2026-05-14,No Email 2,,GA,Ridgeline 3P Tent,1,289.00
+CO-9104,2026-05-14,No Email 4,,GA,Ridgeline 3P Tent,1,289.00
+CO-1026,04/24/2026,JOSEPH WHITE,joseph.white25@example.com,Florida,Trailhead 45L Pack,3,$139.50
+CO-1010,02/14/2026,Donald Jones,donald.jones9@example.com,TN,Drift Sleeping Bag,3,$159.00
+CO-1069,2026-03-09,Margaret Wilson,MARGARET.WILSON68@EXAMPLE.COM,tn.,Ember Down Jacket,2,219.00
+CO-1048,6-Aug-26,Susan Martin,susan.martin47@example.com,fl.,Trailhead 65L Pack,2,179.50
+CO-1013,2026-09-18,Donald Clark,DONALD.CLARK12@EXAMPLE.COM,FL,Ridgeline 2P Tent,1,229.00
+CO-1075,Sep 20 2026,David Lopez,david.lopez74@example.com,tn.,Meridian Boots,2,USD 139.95
+CO-1068,10-Mar-26,Charles Jones,charles.jones67@example.com,Georgia,Ember Insulated Vest,3,119
+CO-9201,2026-05-14,Bad Email 1,missingat.example.com,GA,Ridgeline 3P Tent,1,289.00
+CO-1044,11-Jan-26,Nancy Davis,nancy.davis43@example.com,California,Meridian Trail Shoes,4,119.95
+CO-1057,2026-06-23,Patricia Perez,PATRICIA.PEREZ56@EXAMPLE.COM,fl.,Ember Insulated Vest,1,119.00
+CO-1010,02/14/2026,  Donald Jones ,DONALD.JONES9@EXAMPLE.COM,TN ,Drift Sleeping Bag,3,$159.00
+CO-1008,8-Aug-26,Lisa Jones,lisa.jones7@example.com,Tennessee,Meridian Boots,1,139.95
+CO-1060,18-Jul-26,Sarah Thompson,sarah.thompson59@example.com,tn.,Ember Insulated Vest,3,119
+CO-1078,07/11/2026,Sarah Brown,sarah.brown77@example.com,tx.,Drift Sleeping Bag,2,$159.00
+CO-1061,2026-01-12,LISA ANDERSON,LISA.ANDERSON60@EXAMPLE.COM,CA,Ridgeline 3P Tent,3,289.00
+CO-1002,05/14/2026,Daniel Rodriguez,daniel.rodriguez1@example.com,North Carolina,Ember Down Jacket,2,$219.00
+CO-1011,Jul 20 2026,ROBERT THOMPSON,robert.thompson10@example.com,Florida,Ember Down Jacket,3,USD 219.00
+CO-1051,Sep 5 2026,JESSICA JOHNSON,jessica.johnson50@example.com,fl.,Ember Insulated Vest,1,USD 119.00
+CO-1041,2026-07-21,JAMES WALKER,JAMES.WALKER40@EXAMPLE.COM,Georgia,Trailhead 65L Pack,1,179.50
+CO-1070,09/13/2026,Karen Lopez,karen.lopez69@example.com,GA,Ridgeline 2P Tent,4,$229.00
+CO-1077,2026-01-04,John Martin,JOHN.MARTIN76@EXAMPLE.COM,Georgia,Basecamp Stove Kit,1,74.00
+CO-1030,07/22/2026,Anthony Lopez,anthony.lopez29@example.com,al.,Drift Sleeping Bag,3,$159.00
+CO-1059,Jun 6 2026,  Daniel Jackson ,DANIEL.JACKSON58@EXAMPLE.COM,Alabama ,Drift Hammock,4,USD 59.95
+CO-1067,Jun 25 2026,Joseph Hernandez,joseph.hernandez66@example.com,AL,Summit Trek Poles,3,USD 64.50
+CO-1054,09/07/2026,Margaret Taylor,margaret.taylor53@example.com,tn.,Ember Insulated Vest,4,$119.00
+CO-9302,next week,Date Vague,test.buyer@example.com,GA,Ridgeline 3P Tent,1,289.00
+CO-1024,4-Feb-26,Linda Harris,linda.harris23@example.com,tn.,Cascade Rain Shell,2,129
+CO-1006,03/01/2026,ELIZABETH PEREZ,elizabeth.perez5@example.com,al.,Summit Insoles,4,$34.50
+CO-1017,2026-03-21,John Thompson,JOHN.THOMPSON16@EXAMPLE.COM,Texas,Basecamp Lantern,1,39.95
+CO-1033,2026-09-22,James Johnson,JAMES.JOHNSON32@EXAMPLE.COM,tn.,Trailhead 45L Pack,3,139.50
+CO-1018,07/19/2026,Michael Williams,michael.williams17@example.com,sc.,Trailhead 45L Pack,2,$139.50
+CO-1052,13-Mar-26,Mary Smith,mary.smith51@example.com,NC,Meridian Boots,2,139.95
+CO-1084,19-Sep-26,  James Anderson ,JAMES.ANDERSON83@EXAMPLE.COM,tn. ,Cascade Dry Duffel,3,89.95
+CO-1012,19-May-26,Linda Harris,linda.harris11@example.com,tn.,Ember Insulated Vest,3,119
+CO-1018,07/19/2026,Michael Williams,michael.williams17@example.com,sc.,Trailhead 45L Pack,2,$139.50
+CO-1055,Aug 5 2026,Sarah Brown,sarah.brown54@example.com,AL,Ridgeline 2P Tent,3,USD 229.00
+CO-9301,TBD,Date TBD,test.buyer@example.com,GA,Ridgeline 3P Tent,1,289.00
+CO-1036,8-Feb-26,DANIEL MARTINEZ,daniel.martinez35@example.com,sc.,Ember Down Jacket,1,219
+CO-9103,2026-05-14,No Email 3,,GA,Ridgeline 3P Tent,1,289.00
+CO-1084,19-Sep-26,James Anderson,james.anderson83@example.com,tn.,Cascade Dry Duffel,3,89.95
+CO-1028,17-May-26,John Williams,john.williams27@example.com,SC,Meridian Boots,2,139.95
+CO-9202,2026-05-14,Bad Email 2,two@@example.com,GA,Ridgeline 3P Tent,1,289.00
+CO-1065,2026-03-16,Michael Thompson,MICHAEL.THOMPSON64@EXAMPLE.COM,Alabama,Ridgeline 2P Tent,1,229.00
+CO-1014,01/24/2026,David Lopez,david.lopez13@example.com,Tennessee,Cascade Rain Shell,3,$129.00
+CO-1045,2026-04-08,Jessica Gonzalez,JESSICA.GONZALEZ44@EXAMPLE.COM,al.,Meridian Boots,2,139.95
+CO-1022,03/03/2026,John Hernandez,john.hernandez21@example.com,SC,Cascade Rain Shell,1,$129.00
+CO-1031,Jun 1 2026,MARK GARCIA,mark.garcia30@example.com,CA,Basecamp Stove Kit,1,USD 74.00
+CO-1067,Jun 25 2026,Joseph Hernandez,joseph.hernandez66@example.com,AL,Summit Trek Poles,3,USD 64.50
+CO-1009,2026-08-19,Betty Walker,BETTY.WALKER8@EXAMPLE.COM,tx.,Meridian Trail Shoes,1,119.95
+CO-1062,04/22/2026,John Brown,john.brown61@example.com,South Carolina,Basecamp Lantern,4,$39.95
+CO-1056,12-Sep-26,JOHN MARTIN,john.martin55@example.com,North Carolina,Summit Trek Poles,2,64.50
+CO-1004,3-Jun-26,Nancy Lopez,nancy.lopez3@example.com,TX,Drift Hammock,1,59.95
+CO-1082,09/08/2026,Jessica Williams,jessica.williams81@example.com,TX,Summit Trek Poles,3,$64.50
+CO-9402,2026-05-14,Negative Qty Two,test.buyer@example.com,GA,Ridgeline 3P Tent,-1,289.00
+CO-1020,6-Feb-26,Sandra Lee,sandra.lee19@example.com,South Carolina,Trailhead 45L Pack,2,139.50
+CO-9100,2026-05-14,No Email 0,,GA,Ridgeline 3P Tent,1,289.00
+,2026-05-14,Missing Order Id,test.buyer@example.com,GA,Ridgeline 3P Tent,1,289.00
+CO-1043,Apr 19 2026,Linda Miller,linda.miller42@example.com,SC,Cascade Dry Duffel,2,USD 89.95
+CO-1015,Jan 2 2026,Jessica Anderson,jessica.anderson14@example.com,nc.,Cascade Rain Shell,4,USD 129.00
+CO-1066,03/27/2026,ROBERT THOMPSON,robert.thompson65@example.com,ca.,Ember Down Jacket,3,$219.00
+CO-1053,2026-08-02,Sarah Moore,SARAH.MOORE52@EXAMPLE.COM,Georgia,Summit Trek Poles,1,64.50
+CO-1046,06/01/2026,RICHARD WILLIAMS,richard.williams45@example.com,NC,Summit Trek Poles,3,$64.50
+CO-1023,May 8 2026,Richard Johnson,richard.johnson22@example.com,North Carolina,Trailhead 65L Pack,1,USD 179.50
+CO-1090,01/07/2026,John Rodriguez,john.rodriguez89@example.com,fl.,Trailhead 65L Pack,1,$179.50
+CO-1085,2026-01-22,David Lee,DAVID.LEE84@EXAMPLE.COM,CA,Basecamp Lantern,4,39.95
+CO-1095,Sep 19 2026,Matthew Thomas,matthew.thomas94@example.com,Alabama,Summit Trek Poles,1,USD 64.50
+CO-1081,2026-03-17,PATRICIA HARRIS,PATRICIA.HARRIS80@EXAMPLE.COM,tx.,Ember Down Jacket,3,219.00
+CO-1079,Sep 8 2026,Daniel Martin,daniel.martin78@example.com,SC,Summit Trek Poles,2,USD 64.50
+CO-1050,06/23/2026,Mark Hernandez,mark.hernandez49@example.com,California,Cascade Rain Shell,1,$129.00
+CO-9200,2026-05-14,Bad Email 0,not-an-email,GA,Ridgeline 3P Tent,1,289.00
+CO-1058,07/27/2026,Patricia Gonzalez,patricia.gonzalez57@example.com,FL,Trailhead 45L Pack,1,$139.50
+CO-1064,17-Aug-26,Mark Williams,mark.williams63@example.com,AL,Trailhead 65L Pack,4,179.50
+CO-9101,2026-05-14,No Email 1,,GA,Ridgeline 3P Tent,1,289.00
+CO-1089,2026-07-07,John Lewis,JOHN.LEWIS88@EXAMPLE.COM,North Carolina,Basecamp Stove Kit,2,74.00
+CO-1071,Jun 2 2026,MATTHEW GONZALEZ,matthew.gonzalez70@example.com,North Carolina,Basecamp Stove Kit,2,USD 74.00
+CO-1094,05/12/2026,Margaret Lewis,margaret.lewis93@example.com,AL,Summit Insoles,1,$34.50
+CO-1025,2026-09-08,Daniel Lee,DANIEL.LEE24@EXAMPLE.COM,CA,Cascade Rain Shell,4,129.00
+CO-1001,2026-01-24,SARAH DAVIS,SARAH.DAVIS0@EXAMPLE.COM,TX,Ember Insulated Vest,3,119.00
+CO-1032,9-Jan-26,Sandra Jones,sandra.jones31@example.com,Florida,Ridgeline 3P Tent,1,289
+CO-1029,2026-08-15,Elizabeth Davis,ELIZABETH.DAVIS28@EXAMPLE.COM,California,Trailhead 65L Pack,3,179.50
+CO-1059,Jun 6 2026,Daniel Jackson,daniel.jackson58@example.com,Alabama,Drift Hammock,4,USD 59.95
+CO-1072,10-Mar-26,Daniel Martinez,daniel.martinez71@example.com,sc.,Ridgeline 3P Tent,4,289
+CO-1078,07/11/2026,Sarah Brown,sarah.brown77@example.com,tx.,Drift Sleeping Bag,2,$159.00
+CO-9401,2026-05-14,Negative Qty One,test.buyer@example.com,GA,Ridgeline 3P Tent,-2,289.00
+CO-1039,Feb 3 2026,Susan Thompson,susan.thompson38@example.com,nc.,Drift Hammock,4,USD 59.95
+CO-1003,Jan 10 2026,Nancy Jones,nancy.jones2@example.com,tn.,Summit Trek Poles,2,USD 64.50
+CO-1042,04/01/2026,Joseph Brown,joseph.brown41@example.com,tx.,Trailhead 45L Pack,2,$139.50
+CO-1035,Mar 13 2026,Charles Clark,charles.clark34@example.com,California,Meridian Trail Shoes,4,USD 119.95
+CO-1034,03/10/2026,Sandra Gonzalez,sandra.gonzalez33@example.com,GA,Cascade Dry Duffel,3,$89.95
+CO-1005,2026-03-20,Jessica Hernandez,JESSICA.HERNANDEZ4@EXAMPLE.COM,California,Summit Insoles,2,34.50
+CO-1021,2026-05-05,WILLIAM CLARK,WILLIAM.CLARK20@EXAMPLE.COM,nc.,Trailhead 65L Pack,4,179.50
+CO-1053,2026-08-02,Sarah Moore,SARAH.MOORE52@EXAMPLE.COM,Georgia,Summit Trek Poles,1,64.50
+CO-1019,Aug 24 2026,Donald Martinez,donald.martinez18@example.com,FL,Cascade Dry Duffel,3,USD 89.95

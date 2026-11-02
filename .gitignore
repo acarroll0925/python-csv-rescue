@@ -1,0 +1,5 @@
+# Regenerated outputs (sample_output/ holds the committed reference copies)
+clean.csv
+rejected_rows.csv
+run_summary.txt
+__pycache__/

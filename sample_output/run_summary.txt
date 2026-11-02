@@ -1,0 +1,13 @@
+CSV Rescue — run summary
+input file: orders_messy.csv
+rows in: 120
+rows out (clean): 95
+rows rejected: 13
+duplicates removed: 12
+rejections by reason:
+  invalid email: 3
+  missing email: 5
+  missing order_id: 1
+  negative quantity: 2
+  unparseable date: 'TBD': 1
+  unparseable date: 'next week': 1

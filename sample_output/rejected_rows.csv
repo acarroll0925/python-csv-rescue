@@ -1,0 +1,14 @@
+order_id,order_date,customer_name,email,state,product,quantity,unit_price,reason
+CO-9102,2026-05-14,No Email 2,,GA,Ridgeline 3P Tent,1,289.00,missing email
+CO-9104,2026-05-14,No Email 4,,GA,Ridgeline 3P Tent,1,289.00,missing email
+CO-9201,2026-05-14,Bad Email 1,missingat.example.com,GA,Ridgeline 3P Tent,1,289.00,invalid email
+CO-9302,next week,Date Vague,test.buyer@example.com,GA,Ridgeline 3P Tent,1,289.00,unparseable date: 'next week'
+CO-9301,TBD,Date TBD,test.buyer@example.com,GA,Ridgeline 3P Tent,1,289.00,unparseable date: 'TBD'
+CO-9103,2026-05-14,No Email 3,,GA,Ridgeline 3P Tent,1,289.00,missing email
+CO-9202,2026-05-14,Bad Email 2,two@@example.com,GA,Ridgeline 3P Tent,1,289.00,invalid email
+CO-9402,2026-05-14,Negative Qty Two,test.buyer@example.com,GA,Ridgeline 3P Tent,-1,289.00,negative quantity
+CO-9100,2026-05-14,No Email 0,,GA,Ridgeline 3P Tent,1,289.00,missing email
+,2026-05-14,Missing Order Id,test.buyer@example.com,GA,Ridgeline 3P Tent,1,289.00,missing order_id
+CO-9200,2026-05-14,Bad Email 0,not-an-email,GA,Ridgeline 3P Tent,1,289.00,invalid email
+CO-9101,2026-05-14,No Email 1,,GA,Ridgeline 3P Tent,1,289.00,missing email
+CO-9401,2026-05-14,Negative Qty One,test.buyer@example.com,GA,Ridgeline 3P Tent,-2,289.00,negative quantity
